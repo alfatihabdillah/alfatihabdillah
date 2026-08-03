@@ -17,11 +17,11 @@
 
 ### 👋 Hi, I'm Muhammad Al-Fatih Abdillah
 
-*🎓 Vocational High School student at SMK Telkom Malang, majoring in Computer and Network Engineering (TKJ) with a specialization in IT Network System Administration (ITNSA).
+🎓 Vocational High School student at SMK Telkom Malang, majoring in Computer and Network Engineering (TKJ) with a specialization in IT Network System Administration (ITNSA).
 
-*💻 Interested in networking, system administration, and server technologies. Experienced with basic network configuration, RJ45 crimping, fiber optic splicing, web server deployment, CentOS, Windows Server, and MikroTik configuration.
+💻 Interested in networking, system administration, and server technologies. Experienced with basic network configuration, RJ45 crimping, fiber optic splicing, web server deployment, CentOS, Windows Server, and MikroTik configuration.
 
-*📚 Currently expanding my knowledge in Linux, networking, cybersecurity, and cloud technologies through hands-on projects.
+📚 Currently expanding my knowledge in Linux, networking, cybersecurity, and cloud technologies through hands-on projects.
 ---
 
 ### 🛠️ Skills & Technologies
